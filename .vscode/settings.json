@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "MP",
+    "id": "6540fdec6e0ba07abe88164a",
+    "framework": "html-css",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "f:\\study\\MP_Website\\src\\components",
+    "screensPath": "f:\\study\\MP_Website\\src\\pages",
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}
